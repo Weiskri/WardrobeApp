@@ -179,6 +179,8 @@ footer {
     color: #917401;
     letter-spacing: 2px;
     text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 .clothes-thumbnail {
@@ -296,8 +298,8 @@ footer {
 .container.main-page {
     border-left: 10px dashed rgba(181, 181, 65, .4);
     border-right: 10px dashed rgba(181, 181, 65, .4);
-    border-bottom: 10px dashed rgba(181, 181, 65, .4);
     padding-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 /*On the create and edit pages, this controls the font color.*/
